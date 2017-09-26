@@ -1,0 +1,13 @@
+(*
+  to test input choose -1
+	
+	
+*)
+program p;
+
+var x: 1 .. 100;
+
+begin
+  read(x);
+  write(x)
+end.

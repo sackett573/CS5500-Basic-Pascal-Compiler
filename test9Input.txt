@@ -1,0 +1,13 @@
+(*
+  to test input choose 100
+*)
+program p;
+
+var x: 1 .. 100;
+    y: integer;
+
+begin
+  read(y);
+	x := y + 1;
+  write(x)
+end.

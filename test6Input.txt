@@ -1,0 +1,12 @@
+(*
+  to test input choose F
+	
+*)
+program p;
+
+var x: 'A' .. 'E';
+
+begin
+  read(x);
+  write(x)
+end.
