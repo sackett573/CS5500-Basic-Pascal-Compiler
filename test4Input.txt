@@ -1,0 +1,7 @@
+program exSubrange;
+var m : 'A' .. 'E';
+
+begin
+ m := 'F';
+ write(m)
+end.

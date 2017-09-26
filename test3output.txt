@@ -1,0 +1,3 @@
+Oal code should not be run because it failed to compile. Check oal code
+and there should be this error message:
+Line 4: Assigned value is outside of Subrange

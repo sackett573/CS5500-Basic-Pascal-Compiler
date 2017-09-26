@@ -1,0 +1,7 @@
+program exSubrange;
+var m : 1 .. 100;
+
+begin
+ m := -1;
+ write(m)
+end.

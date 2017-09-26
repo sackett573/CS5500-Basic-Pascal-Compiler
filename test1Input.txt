@@ -1,0 +1,16 @@
+program exSubrange;
+var m : 1 .. 100;
+    g : 'A' .. 'E';
+    y : integer;
+		c : char;
+begin
+ m := 99;
+ g := 'C';
+ y := m + 5;
+ c := 'E';
+ m := 70 + 1;
+ g := c;
+ y := 90;
+ m := y - 89;
+ write(m,'\',g)
+end.

@@ -1,0 +1,14 @@
+(*
+  to test input choose C then 50
+	
+*)
+program p;
+
+var x: 'A' .. 'E';
+    y: 1 .. 100;
+
+begin
+  read(x);
+	read(y);
+  write(x, y)
+end.
